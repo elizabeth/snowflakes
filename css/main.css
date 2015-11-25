@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700,400italic);
 
 html {
@@ -8,7 +9,7 @@ html {
 
 body {
     background-color: #E5FDFF;
-    font-family: Roboto, SansSerif;
+    font-family: Lato, Roboto, sans-serif;
 }
 
 #title {
